@@ -1,0 +1,25 @@
+body{
+    color: black;
+    background-color:Orange;
+    font-family:'Times New Roman', Times, serif;
+    font-size:1.2em;
+    border:black;
+    margin:100px;
+    outline-style: solid;
+    outline-color: blue;
+    outline-width:1000px;
+}
+h1{
+    color:blue;
+    font-family: cursive;
+}
+h2{
+    color:black;
+    background-color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.0em;
+    Width:150px;
+    border:20px blue;
+    padding:20px;
+    margin:5px;
+}
